@@ -1,0 +1,16 @@
+.FormStyle {
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 4px;
+    height: 40px;
+    background-color: white;
+}
+.FormStyle:focus {
+    border: 2px solid rgba(255, 166, 0, 1);
+}
+.FieldError {
+    border: 2px solid red;
+}
+.SpanError {
+    color: red;
+}

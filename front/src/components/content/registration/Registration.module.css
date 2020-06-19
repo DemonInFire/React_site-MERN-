@@ -1,0 +1,18 @@
+.FormStyle {
+    padding-top: 50px;
+}
+.FormStyle p {
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.FormStyle Button {
+    margin-top: 30px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    border: 2px solid;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
